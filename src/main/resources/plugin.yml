@@ -1,0 +1,4 @@
+name: AdvancementBenefit
+version: '${version}'
+main: io.github.vitelotte.advancementbenefit.AdvancementBenefit
+api-version: '1.20'
